@@ -1,5 +1,6 @@
 document.addEventListener('DOMContentLoaded', function() {
     
+    
     const changeTextBtn = document.getElementById('chtext');
     const changeBgBtn = document.getElementById('bccol');
     const popupOverlay = document.getElementById('popupOverlay');
